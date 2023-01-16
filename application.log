@@ -1,0 +1,338 @@
+2023-01-02 09:29:17,249  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 09:29:17,405  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 09:29:24,904  INFO [main] InetBanking:35 - Login Passed
+ 2023-01-02 09:29:26,773  INFO [main] InetBanking:38 - logged out
+ 2023-01-02 09:29:35,022  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 09:29:35,373  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 09:29:47,023  INFO [main] InetBanking:29 - Login Failed
+ 2023-01-02 09:29:47,353  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 09:29:47,538  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 09:29:58,518  INFO [main] InetBanking:35 - Login Passed
+ 2023-01-02 09:30:01,341  INFO [main] InetBanking:38 - logged out
+ 2023-01-02 09:30:09,570  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 09:30:09,714  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 09:30:25,932  INFO [main] InetBanking:29 - Login Failed
+ 2023-01-02 09:30:26,356  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 09:30:26,633  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 09:30:37,863  INFO [main] InetBanking:29 - Login Failed
+ 2023-01-02 09:34:24,039  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 09:34:24,204  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 09:34:39,691  INFO [main] InetBanking:35 - Login Passed
+ 2023-01-02 09:34:42,385  INFO [main] InetBanking:38 - logged out
+ 2023-01-02 09:34:53,719  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 09:34:53,887  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 09:35:23,698  INFO [main] InetBanking:29 - Login Failed
+ 2023-01-02 09:35:24,004  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 09:35:24,158  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 09:35:39,746  INFO [main] InetBanking:35 - Login Passed
+ 2023-01-02 09:35:44,462  INFO [main] InetBanking:38 - logged out
+ 2023-01-02 09:36:01,868  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 09:36:02,011  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 09:36:13,577  INFO [main] InetBanking:29 - Login Failed
+ 2023-01-02 09:36:13,774  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 09:36:13,912  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 09:36:26,092  INFO [main] InetBanking:29 - Login Failed
+ 2023-01-02 09:39:26,392  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 09:39:26,559  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 09:39:30,169  INFO [main] InetBanking:35 - Login Passed
+ 2023-01-02 09:39:31,928  INFO [main] InetBanking:38 - logged out
+ 2023-01-02 09:39:37,622  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 09:39:37,775  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 09:39:43,798  INFO [main] InetBanking:29 - Login Failed
+ 2023-01-02 09:39:45,150  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 09:39:45,315  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 09:39:48,510  INFO [main] InetBanking:35 - Login Passed
+ 2023-01-02 09:39:57,233  INFO [main] InetBanking:38 - logged out
+ 2023-01-02 09:40:11,112  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 09:40:11,292  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 09:40:20,897  INFO [main] InetBanking:29 - Login Failed
+ 2023-01-02 09:40:21,270  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 09:40:21,542  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 09:40:40,542  INFO [main] InetBanking:29 - Login Failed
+ 2023-01-02 09:49:10,823  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 09:49:11,032  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 09:49:35,585  INFO [main] InetBanking:29 - Login Failed
+ 2023-01-02 09:49:35,974  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 09:49:36,224  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 09:49:56,239  INFO [main] InetBanking:29 - Login Failed
+ 2023-01-02 09:49:56,557  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 09:49:56,956  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 09:50:49,424  INFO [main] InetBanking:29 - Login Failed
+ 2023-01-02 10:41:07,639  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 10:41:07,806  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 10:41:22,927  INFO [main] InetBanking:36 - Login Passed
+ 2023-01-02 10:41:35,535  INFO [main] InetBanking:39 - logged out
+ 2023-01-02 10:42:43,526  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 10:42:43,826  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 10:43:12,128  INFO [main] InetBanking:30 - Login Failed
+ 2023-01-02 10:43:12,318  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 10:43:12,473  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 10:43:39,627  INFO [main] InetBanking:36 - Login Passed
+ 2023-01-02 10:43:50,075  INFO [main] InetBanking:39 - logged out
+ 2023-01-02 10:44:13,180  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 10:44:13,334  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 10:44:52,366  INFO [main] InetBanking:30 - Login Failed
+ 2023-01-02 10:44:52,511  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 10:44:52,641  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 11:05:44,160  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 11:05:44,335  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 11:05:49,330  INFO [main] InetBanking:38 - Login Passed
+ 2023-01-02 11:06:16,060  INFO [main] InetBanking:41 - logged out
+ 2023-01-02 11:06:23,060  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 11:06:23,199  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 11:06:33,789  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 11:06:33,912  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 11:06:41,396  INFO [main] InetBanking:38 - Login Passed
+ 2023-01-02 11:06:45,236  INFO [main] InetBanking:41 - logged out
+ 2023-01-02 11:07:01,934  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 11:07:02,073  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 11:07:13,957  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 11:07:14,078  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 11:16:30,358  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 11:16:30,505  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 11:17:21,871  INFO [main] InetBanking:36 - Login Passed
+ 2023-01-02 11:17:31,395  INFO [main] InetBanking:39 - logged out
+ 2023-01-02 11:19:01,810  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 11:19:02,080  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 11:24:10,524  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 11:24:10,697  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 11:24:23,389  INFO [main] InetBanking:37 - Login Passed
+ 2023-01-02 11:24:26,743  INFO [main] InetBanking:40 - logged out
+ 2023-01-02 11:24:42,405  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 11:24:42,820  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 11:25:07,548  INFO [main] InetBanking:31 - Login Failed
+ 2023-01-02 11:25:07,887  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 11:25:08,184  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 11:25:23,988  INFO [main] InetBanking:37 - Login Passed
+ 2023-01-02 11:25:28,154  INFO [main] InetBanking:40 - logged out
+ 2023-01-02 11:25:52,278  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 11:25:52,409  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 11:26:10,898  INFO [main] InetBanking:31 - Login Failed
+ 2023-01-02 11:26:11,210  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 11:26:11,468  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 11:33:36,650  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 11:33:36,845  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 11:33:43,028  INFO [main] InetBanking:35 - Login Passed
+ 2023-01-02 11:33:46,195  INFO [main] InetBanking:38 - logged out
+ 2023-01-02 11:33:56,964  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 11:33:57,081  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 11:34:02,602  INFO [main] InetBanking:26 - Login Failed
+ 2023-01-02 11:34:09,227  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 11:34:09,361  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 11:34:15,723  INFO [main] InetBanking:26 - Login Failed
+ 2023-01-02 12:02:45,638  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 12:02:45,789  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 12:02:53,125  INFO [main] InetBanking:35 - Login Passed
+ 2023-01-02 12:02:54,805  INFO [main] InetBanking:38 - logged out
+ 2023-01-02 12:03:02,558  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 12:03:02,683  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 12:03:07,502  INFO [main] InetBanking:26 - Login Failed
+ 2023-01-02 12:03:13,546  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 12:03:13,741  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 12:03:23,068  INFO [main] InetBanking:35 - Login Passed
+ 2023-01-02 12:03:25,760  INFO [main] InetBanking:38 - logged out
+ 2023-01-02 12:03:34,652  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 12:03:34,845  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 12:03:40,446  INFO [main] InetBanking:26 - Login Failed
+ 2023-01-02 12:03:45,876  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 12:03:45,999  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 12:03:50,928  INFO [main] InetBanking:26 - Login Failed
+ 2023-01-02 12:06:45,201  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 12:06:45,358  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 12:06:54,880  INFO [main] InetBanking:36 - Login Passed
+ 2023-01-02 12:06:57,213  INFO [main] InetBanking:39 - logged out
+ 2023-01-02 12:07:05,498  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 12:07:05,797  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 12:07:11,117  INFO [main] InetBanking:26 - Login Failed
+ 2023-01-02 12:07:16,768  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 12:07:17,081  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 12:07:21,733  INFO [main] InetBanking:26 - Login Failed
+ 2023-01-02 12:09:22,335  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 12:09:22,489  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 12:09:42,960  INFO [main] InetBanking:37 - Login Passed
+ 2023-01-02 12:09:45,974  INFO [main] InetBanking:40 - logged out
+ 2023-01-02 12:09:54,246  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 12:09:54,519  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 12:09:59,094  INFO [main] InetBanking:26 - Login Failed
+ 2023-01-02 12:10:09,538  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 12:10:09,769  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 12:10:14,476  INFO [main] InetBanking:26 - Login Failed
+ 2023-01-02 12:16:07,951  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 12:16:08,113  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 12:16:17,421  INFO [main] InetBanking:34 - Login Passed
+ 2023-01-02 12:16:20,569  INFO [main] InetBanking:37 - logged out
+ 2023-01-02 12:16:34,331  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 12:16:34,641  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 12:16:40,532  INFO [main] InetBanking:26 - Login Failed
+ 2023-01-02 12:16:49,104  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 12:16:49,236  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 12:16:58,457  INFO [main] InetBanking:34 - Login Passed
+ 2023-01-02 12:17:00,623  INFO [main] InetBanking:37 - logged out
+ 2023-01-02 12:17:08,814  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 12:17:08,955  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 12:17:14,403  INFO [main] InetBanking:26 - Login Failed
+ 2023-01-02 12:17:20,483  INFO [main] InetBanking:19 - username provided
+ 2023-01-02 12:17:20,618  INFO [main] InetBanking:21 - password provided
+ 2023-01-02 12:17:27,061  INFO [main] InetBanking:26 - Login Failed
+ 2023-01-02 20:03:17,650  INFO [main] InetBanking:28 - providing customer details....
+ 2023-01-02 20:04:47,918  INFO [main] InetBanking:28 - providing customer details....
+ 2023-01-02 20:05:10,383  INFO [main] InetBanking:48 - validation started....
+ 2023-01-02 20:10:36,597  INFO [main] InetBanking:28 - providing customer details....
+ 2023-01-02 20:11:15,683  INFO [main] InetBanking:48 - validation started....
+ 2023-01-02 20:11:15,744  INFO [main] InetBanking:55 - test case passed....
+ 2023-01-02 20:14:40,844  INFO [main] InetBanking:28 - providing customer details....
+ 2023-01-02 20:16:48,755  INFO [main] InetBanking:48 - validation started....
+ 2023-01-02 20:16:48,831  INFO [main] InetBanking:60 - test case failed....
+ 2023-01-03 11:54:51,790  INFO [main] InetBanking:28 - providing customer details....
+ 2023-01-03 11:55:31,697  INFO [main] InetBanking:48 - validation started....
+ 2023-01-03 11:55:31,758  INFO [main] InetBanking:55 - test case passed....
+ 2023-01-03 12:00:54,864  INFO [main] InetBanking:19 - username provided
+ 2023-01-03 12:00:55,033  INFO [main] InetBanking:21 - password provided
+ 2023-01-03 12:01:12,270  INFO [main] InetBanking:36 - Login Passed
+ 2023-01-03 12:01:14,969  INFO [main] InetBanking:39 - logged out
+ 2023-01-03 12:01:26,088  INFO [main] InetBanking:19 - username provided
+ 2023-01-03 12:01:26,259  INFO [main] InetBanking:21 - password provided
+ 2023-01-03 12:01:32,692  INFO [main] InetBanking:26 - Login Failed
+ 2023-01-03 12:01:41,713  INFO [main] InetBanking:19 - username provided
+ 2023-01-03 12:01:41,988  INFO [main] InetBanking:21 - password provided
+ 2023-01-03 12:01:54,043  INFO [main] InetBanking:36 - Login Passed
+ 2023-01-03 12:01:56,402  INFO [main] InetBanking:39 - logged out
+ 2023-01-03 12:02:05,702  INFO [main] InetBanking:19 - username provided
+ 2023-01-03 12:02:05,836  INFO [main] InetBanking:21 - password provided
+ 2023-01-03 12:02:11,490  INFO [main] InetBanking:26 - Login Failed
+ 2023-01-03 12:02:19,435  INFO [main] InetBanking:19 - username provided
+ 2023-01-03 12:02:19,577  INFO [main] InetBanking:21 - password provided
+ 2023-01-03 12:02:25,002  INFO [main] InetBanking:26 - Login Failed
+ 2023-01-03 12:05:33,645  INFO [main] InetBanking:16 - URL is opened
+ 2023-01-03 12:05:33,914  INFO [main] InetBanking:20 - entered username
+ 2023-01-03 12:05:34,089  INFO [main] InetBanking:23 - entered password
+ 2023-01-03 12:05:34,717  INFO [main] InetBanking:34 - Login Test Failed
+ 2023-01-03 12:06:05,645  INFO [main] InetBanking:19 - username provided
+ 2023-01-03 12:06:05,795  INFO [main] InetBanking:21 - password provided
+ 2023-01-03 12:06:12,866  INFO [main] InetBanking:35 - Login Passed
+ 2023-01-03 12:06:16,071  INFO [main] InetBanking:38 - logged out
+ 2023-01-03 12:06:28,376  INFO [main] InetBanking:19 - username provided
+ 2023-01-03 12:06:28,519  INFO [main] InetBanking:21 - password provided
+ 2023-01-03 12:07:03,398  INFO [main] InetBanking:35 - Login Passed
+ 2023-01-03 12:08:02,041  INFO [main] InetBanking:28 - providing customer details....
+ 2023-01-03 12:08:37,370  INFO [main] InetBanking:48 - validation started....
+ 2023-01-03 12:08:37,412  INFO [main] InetBanking:55 - test case passed....
+ 2023-01-03 12:10:13,622  INFO [main] InetBanking:16 - URL is opened
+ 2023-01-03 12:10:13,893  INFO [main] InetBanking:20 - entered username
+ 2023-01-03 12:10:14,049  INFO [main] InetBanking:23 - entered password
+ 2023-01-03 12:10:21,256  INFO [main] InetBanking:30 - login test passed
+ 2023-01-03 12:10:50,607  INFO [main] InetBanking:19 - username provided
+ 2023-01-03 12:10:50,776  INFO [main] InetBanking:21 - password provided
+ 2023-01-03 12:10:57,299  INFO [main] InetBanking:35 - Login Passed
+ 2023-01-03 12:10:59,729  INFO [main] InetBanking:38 - logged out
+ 2023-01-03 12:11:08,149  INFO [main] InetBanking:19 - username provided
+ 2023-01-03 12:11:08,291  INFO [main] InetBanking:21 - password provided
+ 2023-01-03 12:11:14,563  INFO [main] InetBanking:26 - Login Failed
+ 2023-01-03 12:11:27,867  INFO [main] InetBanking:19 - username provided
+ 2023-01-03 12:11:28,001  INFO [main] InetBanking:21 - password provided
+ 2023-01-03 12:11:37,573  INFO [main] InetBanking:35 - Login Passed
+ 2023-01-03 12:11:39,958  INFO [main] InetBanking:38 - logged out
+ 2023-01-03 12:11:47,659  INFO [main] InetBanking:19 - username provided
+ 2023-01-03 12:11:47,968  INFO [main] InetBanking:21 - password provided
+ 2023-01-03 12:11:53,554  INFO [main] InetBanking:26 - Login Failed
+ 2023-01-03 12:12:01,698  INFO [main] InetBanking:19 - username provided
+ 2023-01-03 12:12:01,875  INFO [main] InetBanking:21 - password provided
+ 2023-01-03 12:12:10,344  INFO [main] InetBanking:26 - Login Failed
+ 2023-01-03 12:13:02,065  INFO [main] InetBanking:28 - providing customer details....
+ 2023-01-03 12:13:36,375  INFO [main] InetBanking:48 - validation started....
+ 2023-01-03 12:13:36,417  INFO [main] InetBanking:55 - test case passed....
+ 2023-01-05 12:53:14,452  INFO [main] InetBanking:16 - URL is opened
+ 2023-01-05 12:53:14,759  INFO [main] InetBanking:20 - entered username
+ 2023-01-05 12:53:14,928  INFO [main] InetBanking:23 - entered password
+ 2023-01-05 12:53:15,613  INFO [main] InetBanking:34 - Login Test Failed
+ 2023-01-05 12:53:34,447  INFO [main] InetBanking:28 - providing customer details....
+ 2023-01-05 12:54:04,358  INFO [main] InetBanking:48 - validation started....
+ 2023-01-05 12:54:04,424  INFO [main] InetBanking:55 - test case passed....
+ 2023-01-05 12:57:11,779  INFO [main] InetBanking:16 - URL is opened
+ 2023-01-05 12:57:12,129  INFO [main] InetBanking:20 - entered username
+ 2023-01-05 12:57:12,667  INFO [main] InetBanking:23 - entered password
+ 2023-01-05 12:57:15,844  INFO [main] InetBanking:30 - login test passed
+ 2023-01-05 12:57:34,711  INFO [main] InetBanking:28 - providing customer details....
+ 2023-01-05 12:58:04,919  INFO [main] InetBanking:48 - validation started....
+ 2023-01-05 12:58:04,991  INFO [main] InetBanking:55 - test case passed....
+ 2023-01-05 13:00:15,264  INFO [main] InetBanking:16 - URL is opened
+ 2023-01-05 13:00:15,557  INFO [main] InetBanking:20 - entered username
+ 2023-01-05 13:00:15,765  INFO [main] InetBanking:23 - entered password
+ 2023-01-05 13:00:17,380  INFO [main] InetBanking:34 - Login Test Failed
+ 2023-01-05 13:00:37,260  INFO [main] InetBanking:28 - providing customer details....
+ 2023-01-05 13:01:07,618  INFO [main] InetBanking:48 - validation started....
+ 2023-01-05 13:01:07,645  INFO [main] InetBanking:55 - test case passed....
+ 2023-01-05 13:02:32,196  INFO [main] InetBanking:16 - URL is opened
+ 2023-01-05 13:02:32,526  INFO [main] InetBanking:20 - entered username
+ 2023-01-05 13:02:33,001  INFO [main] InetBanking:23 - entered password
+ 2023-01-05 13:02:36,357  INFO [main] InetBanking:30 - login test passed
+ 2023-01-05 13:02:54,994  INFO [main] InetBanking:28 - providing customer details....
+ 2023-01-05 13:04:03,005  INFO [main] InetBanking:16 - URL is opened
+ 2023-01-05 13:04:03,342  INFO [main] InetBanking:20 - entered username
+ 2023-01-05 13:04:03,609  INFO [main] InetBanking:23 - entered password
+ 2023-01-05 13:04:07,268  INFO [main] InetBanking:30 - login test passed
+ 2023-01-05 13:04:28,097  INFO [main] InetBanking:28 - providing customer details....
+ 2023-01-05 13:04:56,105  INFO [main] InetBanking:48 - validation started....
+ 2023-01-05 13:08:54,598  INFO [main] InetBanking:16 - URL is opened
+ 2023-01-05 13:08:54,873  INFO [main] InetBanking:20 - entered username
+ 2023-01-05 13:08:55,325  INFO [main] InetBanking:23 - entered password
+ 2023-01-05 13:08:58,536  INFO [main] InetBanking:30 - login test passed
+ 2023-01-05 13:09:15,521  INFO [main] InetBanking:28 - providing customer details....
+ 2023-01-05 13:09:44,974  INFO [main] InetBanking:48 - validation started....
+ 2023-01-05 13:09:45,011  INFO [main] InetBanking:55 - test case passed....
+ 2023-01-05 13:15:02,173  INFO [main] InetBanking:16 - URL is opened
+ 2023-01-05 13:15:02,650  INFO [main] InetBanking:20 - entered username
+ 2023-01-05 13:15:02,778  INFO [main] InetBanking:23 - entered password
+ 2023-01-05 13:15:07,541  INFO [main] InetBanking:30 - login test passed
+ 2023-01-05 13:15:24,078  INFO [main] InetBanking:28 - providing customer details....
+ 2023-01-05 13:15:54,805  INFO [main] InetBanking:48 - validation started....
+ 2023-01-05 13:15:54,870  INFO [main] InetBanking:55 - test case passed....
+ 2023-01-05 13:41:17,257  INFO [main] InetBanking:16 - URL is opened
+ 2023-01-05 13:41:17,780  INFO [main] InetBanking:20 - entered username
+ 2023-01-05 13:41:18,741  INFO [main] InetBanking:23 - entered password
+ 2023-01-05 13:41:21,335  INFO [main] InetBanking:30 - login test passed
+ 2023-01-05 13:41:44,599  INFO [main] InetBanking:28 - providing customer details....
+ 2023-01-13 09:21:55,195  INFO [main] InetBanking:16 - URL is opened
+ 2023-01-13 09:21:55,499  INFO [main] InetBanking:20 - entered username
+ 2023-01-13 09:21:55,715  INFO [main] InetBanking:23 - entered password
+ 2023-01-13 09:30:41,069  INFO [main] InetBanking:16 - URL is opened
+ 2023-01-13 09:30:41,465  INFO [main] InetBanking:20 - entered username
+ 2023-01-13 09:30:41,736  INFO [main] InetBanking:23 - entered password
+ 2023-01-13 09:37:40,216  INFO [main] InetBanking:16 - URL is opened
+ 2023-01-13 09:37:40,694  INFO [main] InetBanking:20 - entered username
+ 2023-01-13 09:37:40,942  INFO [main] InetBanking:23 - entered password
+ 2023-01-13 09:37:54,849  INFO [main] InetBanking:30 - login test passed
+ 2023-01-13 09:38:44,196  INFO [main] InetBanking:28 - providing customer details....
+ 2023-01-13 09:39:13,418  INFO [main] InetBanking:48 - validation started....
+ 2023-01-13 09:59:27,039  INFO [main] InetBanking:16 - URL is opened
+ 2023-01-13 09:59:27,315  INFO [main] InetBanking:20 - entered username
+ 2023-01-13 09:59:27,499  INFO [main] InetBanking:23 - entered password
+ 2023-01-13 09:59:43,285  INFO [main] InetBanking:30 - login test passed
+ 2023-01-13 10:00:18,009  INFO [main] InetBanking:28 - providing customer details....
+ 2023-01-13 10:00:48,543  INFO [main] InetBanking:48 - validation started....
+ 2023-01-13 10:00:48,611  INFO [main] InetBanking:55 - test case passed....
+ 2023-01-13 10:24:31,904  INFO [main] InetBanking:16 - URL is opened
+ 2023-01-13 10:24:32,243  INFO [main] InetBanking:20 - entered username
+ 2023-01-13 10:24:32,643  INFO [main] InetBanking:23 - entered password
+ 2023-01-13 10:24:33,934  INFO [main] InetBanking:30 - login test passed
+ 2023-01-13 10:25:17,470  INFO [main] InetBanking:28 - providing customer details....
+ 2023-01-13 10:25:49,041  INFO [main] InetBanking:48 - validation started....
+ 2023-01-13 10:25:49,110  INFO [main] InetBanking:55 - test case passed....
+ 2023-01-14 09:31:05,698  INFO [main] InetBanking:16 - URL is opened
+ 2023-01-14 09:31:06,369  INFO [main] InetBanking:20 - entered username
+ 2023-01-14 09:31:06,549  INFO [main] InetBanking:23 - entered password
+ 2023-01-14 09:31:09,098  INFO [main] InetBanking:30 - login test passed
+ 2023-01-14 09:31:30,427  INFO [main] InetBanking:28 - providing customer details....
+ 2023-01-14 09:33:43,958  INFO [main] InetBanking:16 - URL is opened
+ 2023-01-14 09:33:45,114  INFO [main] InetBanking:20 - entered username
+ 2023-01-14 09:33:45,332  INFO [main] InetBanking:23 - entered password
+ 2023-01-14 09:33:48,575  INFO [main] InetBanking:30 - login test passed
+ 2023-01-14 09:34:09,430  INFO [main] InetBanking:28 - providing customer details....
+ 2023-01-14 09:35:32,412  INFO [main] InetBanking:16 - URL is opened
+ 2023-01-14 09:35:33,300  INFO [main] InetBanking:20 - entered username
+ 2023-01-14 09:35:33,670  INFO [main] InetBanking:23 - entered password
+ 2023-01-14 09:35:37,464  INFO [main] InetBanking:30 - login test passed
+ 2023-01-14 09:36:04,532  INFO [main] InetBanking:28 - providing customer details....
+ 2023-01-14 09:36:35,142  INFO [main] InetBanking:48 - validation started....
+ 2023-01-14 09:36:35,176  INFO [main] InetBanking:55 - test case passed....
+ 

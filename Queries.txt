@@ -1,0 +1,7 @@
+cmd queries
+
+cd C:\Users\admin\Downloads
+java -jar jenkins.war
+
+Remote repository URL-
+https://github.com/manishmahajan1207/inetbankingV2.git
