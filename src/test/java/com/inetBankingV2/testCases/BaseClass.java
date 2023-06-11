@@ -81,7 +81,7 @@ public class BaseClass {
 		return(generatedstring);
 	}
 	
-	public static String randomeNum() {
+	public String randomeNum() {
 		String generatedString2 = RandomStringUtils.randomNumeric(4);
 		return (generatedString2);
 	}

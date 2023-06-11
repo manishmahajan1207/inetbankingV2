@@ -63,7 +63,7 @@ public class AddNewCustomerPage {
 		txtCustomerName.sendKeys(cname);
 	}
 	
-	public void custgender(String cgender) {
+	public void custGender(String cgender) {
 		rdGender.click();
 	}
 

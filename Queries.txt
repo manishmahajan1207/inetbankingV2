@@ -5,3 +5,6 @@ java -jar jenkins.war
 
 Remote repository URL-
 https://github.com/manishmahajan1207/inetbankingV2.git
+GitHub username->manishmahajan1207
+GitHub password->rohit45@264
+
